@@ -4,5 +4,5 @@ flask_sqlalchemy
 flask_mail
 MySQLdb
 json
-Math
+math
 datetime
